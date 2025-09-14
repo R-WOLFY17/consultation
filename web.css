@@ -48,13 +48,13 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-  
+  background: rgba(255, 255, 255, 0.1);
    <!--- backdrop-filter: blur(30px);--->
     -webkit-backdrop-filter: blur(30px);
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
     z-index: 1000;
     transition: var(--transition-smooth);
-    box-shadow: 0 8px 32px rgba(244, 0, 0, 0.1);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
       
 }
 
@@ -969,6 +969,7 @@ body {
     }
 
 }
+
 
 
 
