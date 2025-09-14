@@ -107,8 +107,9 @@ body {
     gap: 2.5rem;
     align-items: center;
     list-style: none;
-    background:linear-gradient(90deg, #4facfe, #00f2fe);
-    color:white;
+     background-color:#ffffff;
+    color:#333;
+    box-shadow:0 4px 6px rgba(0,0,0,0);
    
 }
 
@@ -969,6 +970,7 @@ body {
     }
 
 }
+
 
 
 
